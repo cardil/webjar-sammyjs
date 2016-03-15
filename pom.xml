@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>pl.wavesoftware.webjars</groupId>
     <artifactId>sammy</artifactId>
-    <version>0.7.4.6-SNAPSHOT</version>
+    <version>0.7.6.6-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>cardil/sammy webjar</name>
     <description>Webjar for the sammy.js modded by cardil</description>
